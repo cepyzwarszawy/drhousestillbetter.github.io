@@ -11,22 +11,18 @@
   animation: spin 2s linear infinite;
   position: center;
 }
-
 @-webkit-keyframes spin {
   0% { -webkit-transform: rotate(0deg); }
   100% { -webkit-transform: rotate(360deg); }
 }
-
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
 </style>
 </head>
-  <meta http-equiv="refresh" content="0; url=http://cepy-strona-damiantustanowski974605.codeanyapp.com/index.html">
+  <meta http-equiv="refresh" content="0; url="http://83.31.148.53:9058">
 <body>
-
 <div class="loader"></div>
-
 </body>
 </html>
